@@ -21,3 +21,8 @@
 // #define USE_I2C
 
 // #define MASTER_RIGHT
+
+#define MOUSEKEY_DELAY 50
+#define MOUSEKEY_INTERVAL 16
+#define MOUSEKEY_MAX_SPEED 12
+#define MOUSEKEY_TIME_TO_MAX 20
